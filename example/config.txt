@@ -1,0 +1,2 @@
+Prefix plugins/OTUSpecificGenes/example/
+Plugin OTUSpecificGenes inputfile Metagenomics.tsv outputfile genes.txt
